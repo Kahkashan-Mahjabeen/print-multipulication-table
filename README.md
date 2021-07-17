@@ -1,1 +1,1 @@
-# print-multipulication-table
+# print-multiplication-table
